@@ -35,4 +35,4 @@ This repository contains files relevant to Part 1 of the project.
 ## Part 2 of the Project
 
 * This portion refers to the creation of a software release that executes the TFLite model compiled for the Edge TPU on the Coral Dev Board.
-* Click [here](https://github.com/xychong/noise_analyzer) to go to Part 2 of the project
+* Click [here](https://github.com/xychong/noise_analyzer) to go to Part 2 of the project.
