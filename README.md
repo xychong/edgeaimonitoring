@@ -8,6 +8,8 @@ The Google Coral Development Board (Coral Dev Board) uses an attached microphone
 
 ## Sections and Files 
 
+This repository contains files relevant to Part 1 of the project.
+
 **1. Preprocessing**
 
 * Codes to resize audio data, perform noise reduction and data augmentation
@@ -29,3 +31,8 @@ The Google Coral Development Board (Coral Dev Board) uses an attached microphone
 * Codes to place noise data in pandas data frame and save as csv file
 * Noise data text file downloaded from webserver
 * Noise data in CSV file
+
+## Part 2 of the Project
+
+This portion refers to the creation of a software release that executes the TFLite model compiled for the Edge TPU on the Coral Dev Board.
+Click [here](https://github.com/xychong/noise_analyzer) to go to Part 2 of the project
