@@ -8,10 +8,10 @@
 
 **1. Preprocessing**
 
-Contains codes to:
-  * Resize audio data, perform noise reduction and data augmentation
-  * Extract features (Log-Mel Spectrogram)
-  * Split data into training and validation data
+  Contains codes to:
+    * Resize audio data, perform noise reduction and data augmentation
+    * Extract features (Log-Mel Spectrogram)
+    * Split data into training and validation data
 
 **2. Model Training**
 
